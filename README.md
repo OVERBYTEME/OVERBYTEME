@@ -7,11 +7,11 @@ My name is Everett, and I am currently a Security Research intern focusing on lo
 ## My experience
 
 - 🧪 Reverse Engineering
-  -  Most comfortable in x86, with a primary focus on unix platforms. Currently training for OSX/Windows. **Studying for OSED.**
+  -  College level skillset in x86 RE, with a primary focus on unix platforms. Currently training for OSX/Windows. **Studying for OSED.**
 - 🔌 Wireless exploitation
-  -  Over 4 years as an instructor for wireless enumeration and exploitation. **OSWP and CEH certified**.
+  -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation. **OSWP and CEH certified**.
 - 🗝️ Penetration testing
-  -  Conducted numerous penetration tests on small scale networks, as well as participating in DOD led CTF events. **eJPT certified**.
+  -  Hands on knowledge in auditing small scale networks in DOD led CTF events and HTB networks. **eJPT certified**.
 
 ## Latest blog post(s)
 
