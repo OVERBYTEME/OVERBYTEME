@@ -2,7 +2,7 @@
 
 ## Whoami?
 
-My name is Everett, and I am currently a security researcher focusing on low level exploitation development. I am always looking to learn more about anything RE!
+My name is Everett, and I am currently a security researcher focusing on low level exploitation development.
 
 ## My expertise
 
