@@ -2,7 +2,7 @@
 
 ## Whoami?
 
-My name is Everett, and I am currently a Security Research intern focusing on low level exploitation development.
+My name is Everett, and I am currently a Security Researcer focusing on low level exploitation development.
 
 ## My experience
 
