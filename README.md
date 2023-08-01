@@ -6,12 +6,15 @@ Hello! 🤞 My name is Everett, and I am currently a Security Researcher focusin
 
 ## My skillset
 
-- 🧪 `Reverse Engineering`
-  -  College level skillset in x86 RE, with a primary focus on unix platforms. Currently training for OSX/Windows. **Studying for OSED.**
-- 🪄 `Wireless exploitation`
-  -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation. **OSWP and CEH certified**.
-- 🔑 `Penetration testing`
-  -  Hands on knowledge in auditing small scale networks in DOD led CTF events and HTB networks. **eJPT certified**.
+- 🧪 **Reverse Engineering**
+  -  College level skillset in x86, with a focus on Unix platforms. Currently studying OSX/Windows. 
+    - `Studying for OSED`
+- 🪄 **Wireless exploitation**
+  -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation.
+  -  `OSWP and CEH certified`
+- 🔑 **Penetration testing**
+  -  Hands on knowledge in auditing small scale networks in DOD led CTF events and HTB networks.
+  -  `eJPT certified`
 
 ## Latest blog post(s)
 
