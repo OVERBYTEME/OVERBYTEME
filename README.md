@@ -1,4 +1,4 @@
-![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/bite%20banner.png)
+![header](bite%20banner.png)
 
 ## Whoami?
 
