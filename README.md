@@ -1,4 +1,4 @@
-[![Header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/bite%20banner.png "Header")](https://overbyteme.github.io/)
+![Header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/bite%20banner.png)
 
 ## Whoami?
 
