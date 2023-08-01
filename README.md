@@ -2,15 +2,15 @@
 
 ## Whoami?
 
-My name is Everett, and I am currently a Security Researcher focusing on low level exploitation development.
+Hello! 🤞 My name is Everett, and I am currently a Security Researcher focusing on _low level exploitation development_.
 
-## My experience
+## My skillset
 
-- 🧪 Reverse Engineering
+- 🧪 `Reverse Engineering`
   -  College level skillset in x86 RE, with a primary focus on unix platforms. Currently training for OSX/Windows. **Studying for OSED.**
-- 🪄 Wireless exploitation
+- 🪄 `Wireless exploitation`
   -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation. **OSWP and CEH certified**.
-- 🔑 Penetration testing
+- 🔑 `Penetration testing`
   -  Hands on knowledge in auditing small scale networks in DOD led CTF events and HTB networks. **eJPT certified**.
 
 ## Latest blog post(s)
