@@ -1,4 +1,4 @@
-![header](bite%20banner.png)
+![header](bite_banner.png)
 
 ## Whoami?
 
