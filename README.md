@@ -18,7 +18,7 @@ Hello! 🤞 My name is Everett, and I am currently a Security Researcher focusin
 
 ## Latest blog post(s)
 
-1. **[💀 Walkthrough - The Necromancer](https://overbyteme.github.io/posts/necromancer1/)** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
+1. **[💀 Walkthrough - The Necromancer](https://xormancer.github.io/posts/necromancer1/)** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
 
 ## Contact me
 
