@@ -2,7 +2,7 @@
 
 ## Whoami?
 
-My name is **Everett**, and I am a Security Researcher focusing on _vulnerability research_. 
+My name is **Everett**, and I am a Security Researcher focusing on _low level exploitation_. 
 
 ## My skillset
 
