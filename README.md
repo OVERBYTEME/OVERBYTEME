@@ -6,10 +6,10 @@ Hello! 🤞 My name is Everett, and I am currently a Security Researcher focusin
 
 ## My skillset
 
-- ⚗️ **Reverse Engineering**
+- 🧬 **Reverse Engineering**
   -  College level skillset in x86/x64, with a focus on Unix platforms. Currently studying OSX/Windows. 
       - Studying for the [OSED](https://www.offsec.com/courses/exp-301/)
-- 🧶 **Wireless exploitation**
+- 📟 **Wireless exploitation**
   -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation.
       -  [OSWP](https://www.offsec.com/courses/pen-210/) and [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) certified
 - 🔑 **Penetration testing**
