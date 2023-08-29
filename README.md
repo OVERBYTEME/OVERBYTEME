@@ -13,7 +13,7 @@ My name is **Everett**, and I am a Security Researcher focusing on _low level ex
   -  Over 5 years as an instructor for DOD personel teaching wireless enumeration and exploitation courses.
       -  [OSWP](https://www.offsec.com/courses/pen-210/) and [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) certified
 - 👾 **Penetration testing**
-  -  Hands on knowledge in auditing small scale networks in CTF events and HTB networks via network enumeration.
+  -  Hands on knowledge in auditing small scale networks in DoD events and online CTF platforms.
       -  [eJPT](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) certified
 
 ## Latest blog post(s)
