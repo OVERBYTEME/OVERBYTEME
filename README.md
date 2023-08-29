@@ -2,7 +2,7 @@
 
 ## Whoami?
 
-Hello! 🖖 My name is Everett, and I am currently a Security Researcher focusing on _low level exploitation development_.
+My name is **Everett**, and I am a Security Researcher focusing on _vulnerability research_. 
 
 ## My skillset
 
