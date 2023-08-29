@@ -7,7 +7,7 @@ My name is **Everett**, and I am a Security Researcher focusing on _low level ex
 ## My skillset
 
 - 🧬 **Reverse Engineering**
-  -  College level skillset in x86/x64, with a focus on *nix platforms. Currently studying OSX internals. 
+  -  College level skillset in x86/x64, with a focus on *nix platforms. Currently working with OSX. 
       - Studying for the [OSED](https://www.offsec.com/courses/exp-301/)
 - 👽 **Wireless exploitation**
   -  Over 5 years as an instructor for DOD personel teaching wireless enumeration and exploitation courses.
