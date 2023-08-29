@@ -10,10 +10,10 @@ My name is **Everett**, and I am a Security Researcher focusing on _low level ex
   -  College level skillset in x86/x64, with a focus on Unix platforms. Currently studying OSX/Windows. 
       - Studying for the [OSED](https://www.offsec.com/courses/exp-301/)
 - 👽 **Wireless exploitation**
-  -  Over 4 years as an instructor for DOD personel teaching wireless enumeration and exploitation.
+  -  Over 5 years as an instructor for DOD personel teaching wireless enumeration and exploitation courses.
       -  [OSWP](https://www.offsec.com/courses/pen-210/) and [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) certified
 - 👾 **Penetration testing**
-  -  Hands on knowledge in auditing small scale networks in CTF events and HTB networks.
+  -  Hands on knowledge in auditing small scale networks in CTF events and HTB networks via network enumeration.
       -  [eJPT](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) certified
 
 ## Latest blog post(s)
