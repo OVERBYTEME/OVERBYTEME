@@ -16,9 +16,10 @@ My name is **Everett**, and I am a Security Researcher focusing on low level exp
   -  Hands on knowledge in auditing small scale networks in DoD events and online CTF/HTB platforms.
       -  [eJPT](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) certified
 
-## Latest blog post(s)
+## Latest posts
 
-1. **[💀 Walkthrough - The Necromancer](https://xormancer.github.io/posts/necromancer1/)** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
+1. **[💀 CTF - The Necromancer](https://overbyteme.github.io/posts/necromancer1/)** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
+2. **[🔮 Exploitation - Vulnserver](https://overbyteme.github.io/posts/vulnserver1/)** <br> *Exploiting the TRUN command within the vulnserver binary*
 
 ## Contact me
 
