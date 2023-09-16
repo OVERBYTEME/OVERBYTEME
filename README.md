@@ -2,7 +2,7 @@
 
 ## Whoami?
 
-My name is **Everett**, and I am a security researcher focusing on exploitation development.
+My name is **Everett**, and I am a security researcher focusing on exploitation development. 🐰
 
 ## My skillset
 
