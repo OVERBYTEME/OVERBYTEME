@@ -4,7 +4,7 @@
 
 Hello!
 
-My name is **Everett**, but you may know me as XORMANCER. I am a security researcher who is passionate about low level research and exploitation.
+My name is **Everett**, but you may know me as XORMANCER. I am a security researcher who is passionate about low level research and exploitation development.
 
 ## My skillset
 
