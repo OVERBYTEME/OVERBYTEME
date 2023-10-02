@@ -27,4 +27,4 @@ My name is **Everett**, and I am a security researcher / student.
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/XORMANCER) 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ev-platt-iii/) 
 
-All art has been modified from the works of [Mistigris computer arts](https://mistigris.org/), and is utilized for personal use.
+> All profile art has created by modifying the works of [Mistigris computer arts](https://mistigris.org/), and is utilized for personal use.
