@@ -1,10 +1,8 @@
 ![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/the_void.jpg)
 
 ## Whoami?
-
-Hello!
-
-My name is **Everett**, but you may know me as XORMANCER. I am a security researcher who is passionate about low level research and exploitation development.
+My name is **Everett**, but you may know me as XORMANCER. 
+I am a security researcher who is passionate about low level research and exploitation development.
 
 ## My skillset
 
