@@ -1,4 +1,4 @@
-![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/the_void.png)
+![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/the_void.jpg)
 
 ## Whoami?
 
