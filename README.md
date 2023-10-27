@@ -1,7 +1,7 @@
 ![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/the_void.jpg)
 
 ## Whoami?
-My name is **Everett**, but you may know me as XORMANCER. 
+My name is Everett, but I typically go by my github handle @XORMANCER.
 
 I am a security researcher who is passionate about low level research and exploitation development.
 
