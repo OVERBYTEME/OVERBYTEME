@@ -19,9 +19,9 @@ My name is **Everett**. I am a security researcher who is passionate about low-l
 
 ## Latest posts
 
-1. **[🚩 CTF - The Necromancer](/posts/necromancer1/)** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
+1. **[🚩 CTF - The Necromancer]([https://xormancer.github.io/posts/necromancer1/))** <br> *A walkthrough of the vulnhub box - The Necromancer 1*
 
-2. **[🦄 PWN - Vulnserver](/posts/vulnserver1/)** <br> *Exploiting the TRUN command within the vulnserver binary*
+2. **[🦄 PWN - Vulnserver](https://xormancer.github.io/posts/vulnserver2/)** <br> *Exploiting the TRUN command within the vulnserver binary*
 
 ## Contact me
 
