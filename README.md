@@ -1,6 +1,6 @@
 ![header](https://github.com/OVERBYTEME/OVERBYTEME/blob/main/the_void.jpg)
 
-## ./Whoami
+## ./whoami
 Hello!
 
 My name is **Everett**. I am a security researcher who is passionate about low-level research.
